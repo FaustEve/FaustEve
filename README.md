@@ -3,7 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <img src="https://i.pinimg.com/originals/8e/30/bd/8e30bd6f1bd50aaf25e4f16a181d4135.gif">
+    <img width="540" height="480" alt="image" src="https://github.com/user-attachments/assets/3d6189a4-5765-41da-a1d6-1684ed55984a" />
+    
   <p>ιⲙ 21^ | ρrᥱ𐔥ᥱrrᥱᦔ ᥒᥲⲙᥱ ριᥱ | ᥲᥒ𐔤 ρr𐔖ᥒ𐔖ᥙᥒ᥉<p>
     <p>꒷︶꒷꒥꒷‧₊˚꒷︶꒷꒥꒷‧₊˚<p>
 <p>𐔖𐔥tᥱᥒ ρᥣᥲ𐔤: ⲙιᥒᥱᥴrᥲ𐔥t, ᥉tᥲrᦔᥱᥕ ᥎ᥲᥣᥣᥱ𐔤, ᦔ𐔖ᥒ't ᥉tᥲr᥎ᥱ<p>
