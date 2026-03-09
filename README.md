@@ -17,7 +17,6 @@
 <p>꒷︶꒷꒥꒷‧₊˚꒷︶꒷꒥꒷‧₊˚<p>
 <p>𐔥ᥲᥒᦔ𐔖ⲙ᥉: ᥴrk, ρ𐔖kᥱⲙ𐔖ᥒ, rιᥴk ᥲᥒᦔ ⲙ𐔖rt𐔤<p>
   <p>꒷︶꒷꒥꒷‧₊˚꒷︶꒷꒥꒷‧₊˚<p>
-<p>᥉t ᦔrᥲᥕ..<p>
  <img src="https://i.pinimg.com/originals/82/c5/9d/82c59dfe190f9fd13e1c9ec2e96d6aac.gif">
     <link rel="stylesheet" href="styles.css">
 </head>
